@@ -4,9 +4,6 @@
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me :-
 -  Email : rickylaikhuramofficial@gmail.com
-- Instagram : @rickylyxon
-- Twiter (X) : @RickyLyxon
-- Thread : @rickylyxon
 
 <!---
 rickylyxon/rickylyxon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
