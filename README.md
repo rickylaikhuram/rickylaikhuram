@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m Ricky Laikhuram @rickylyxon
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning Machine Learning 
 - 📫 How to reach me :-
 -  Email : rickylaikhuramofficial@gmail.com
 
