@@ -69,15 +69,6 @@ const ricky = {
 };
 ```
 
----
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rickylaikhuram&bg_color=1a1b27&color=38bcf8&line=38bcf8&point=38bcf8&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
----
-
 <div align="center">
   
 **✨ "Code is like humor. When you have to explain it, it's bad." ✨**
