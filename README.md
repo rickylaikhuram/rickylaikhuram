@@ -37,6 +37,7 @@
 
 ### **Frontend Development**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,16 +46,19 @@
 ### **Backend Development**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### **Caching & Data**
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
@@ -64,7 +68,7 @@
 const ricky = {
     currentlyLearning: ["Machine Learning", "Deep Learning", "AWS Cloud Architecture"],
     lookingToCollaborate: ["Open Source Projects", "ML/AI Applications", "Full Stack Solutions"],
-    askMeAbout: ["Web Development", "React/Node.js", "Database Design", "Cloud Computing"],
+    askMeAbout: ["Web Development", "React/Node.js", "Next.js", "Database Design", "Cloud Computing"],
     funFact: "I debug with console.log() and I'm not ashamed of it! 😄"
 };
 ```
@@ -73,6 +77,4 @@ const ricky = {
   
 **✨ "Code is like humor. When you have to explain it, it's bad." ✨**
 
-**Thanks for visiting! Let's build something amazing together! 🚀**
-
-</div>
+**Thanks for visiting! Let's build something amazing together!
