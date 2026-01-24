@@ -1,7 +1,7 @@
 # 💫 Hey there! I'm Ricky Laikhuram 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Learning+Machine+Learning;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+AI-Powered+Apps;Real-time+Applications+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,7 +10,7 @@
 
 - 👋 **Hello World!** I'm **@rickylaikhuram** - passionate about crafting digital experiences
 - 💻 **Software Developer** with a love for clean code and innovative solutions  
-- 🧠 Currently diving deep into **Machine Learning** and AI technologies
+- 🤖 Experienced in building **real-time AI applications** with WebSocket integrations
 - 🌟 Always excited to collaborate on interesting projects and learn new technologies
 
 ## 🌐 Let's Connect!
@@ -47,6 +47,10 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
+### **AI & Real-time Technologies**
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![AI](https://img.shields.io/badge/AI_API_Integration-%2300ADD8.svg?style=for-the-badge&logo=openai&logoColor=white)
+
 ### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -66,9 +70,10 @@
 
 ```javascript
 const ricky = {
-    currentlyLearning: ["Machine Learning", "Deep Learning", "AWS Cloud Architecture"],
-    lookingToCollaborate: ["Open Source Projects", "ML/AI Applications", "Full Stack Solutions"],
-    askMeAbout: ["Web Development", "React/Node.js", "Next.js", "Database Design", "Cloud Computing"],
+    recentWork: ["Real-time AI Applications", "AI API Integration", "WebSocket Communication"],
+    currentlyExploring: ["Deep Learning", "AWS Cloud Architecture"],
+    expertise: ["Full Stack Development", "AI-Powered Apps", "Real-time Systems"],
+    askMeAbout: ["Web Development", "React/Node.js", "Next.js", "AI API Integration", "Socket.io", "Database Design", "Cloud Computing"],
     funFact: "I debug with console.log() and I'm not ashamed of it! 😄"
 };
 ```
@@ -77,4 +82,6 @@ const ricky = {
   
 **✨ "Code is like humor. When you have to explain it, it's bad." ✨**
 
-**Thanks for visiting! Let's build something amazing together!
+**Thanks for visiting! Let's build something amazing together! 🚀**
+
+</div>
